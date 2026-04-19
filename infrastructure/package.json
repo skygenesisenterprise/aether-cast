@@ -1,7 +1,7 @@
 {
-  "package": "@aether-identity/infrastructure",
+  "package": "@aether-cast/infrastructure",
   "version": "1.0.0",
-  "description": "Infrastructure and deployment configuration for Aether identity",
+  "description": "Infrastructure and deployment configuration for Aether Cast Manager",
   "main": "index.js",
   "scripts": {
     "build": "echo 'No build process for infrastructure'",

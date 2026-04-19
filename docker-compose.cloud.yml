@@ -1,10 +1,10 @@
 services:
-  aetheridentity:
+  aethercast:
     build:
       context: .
       dockerfile: Dockerfile.cloud
-    image: aetheridentity:latest
-    container_name: aetheridentity
+    image: aethercast:latest
+    container_name: aethercast
     restart: unless-stopped
     expose:
       - "3000"

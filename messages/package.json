@@ -1,7 +1,7 @@
 {
-  "name": "@aether-identity/messages",
+  "name": "@aether-cast/messages",
   "version": "1.0.0",
-  "description": "Internationalization messages for Aether identity ecosystem",
+  "description": "Internationalization messages for Aether Cast Manager ecosystem",
   "main": "generated/index.js",
   "types": "generated/index.d.ts",
   "scripts": {
@@ -40,11 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skygenesisenterprise/aether-identity.git",
+    "url": "https://github.com/skygenesisenterprise/aether-cast.git",
     "directory": "messages"
   },
   "bugs": {
-    "url": "https://github.com/skygenesisenterprise/aether-identity/issues"
+    "url": "https://github.com/skygenesisenterprise/aether-cast/issues"
   },
-  "homepage": "https://github.com/skygenesisenterprise/aether-identity/tree/main/messages"
+  "homepage": "https://github.com/skygenesisenterprise/aether-cast/tree/main/messages"
 }
