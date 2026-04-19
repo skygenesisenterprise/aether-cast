@@ -30,7 +30,7 @@ function isValidLocale(locale: string): locale is Locale {
 
 const AUTH_PATHS = ["/login", "/register"];
 const PROTECTED_PATHS = ["/dashboard"];
-const NO_LOCALE_PATHS = ["/discord", "/dashboard", "/docs", "/downloads", "/health", "/mfa", "/authorize"];
+const NO_LOCALE_PATHS = ["/discord", "/dashboard", "/docs", "/downloads", "/health", "/mfa", "/authorize", "/browse"];
 
 function isValidJWT(token: string | undefined): boolean {
   if (!token) return false;
